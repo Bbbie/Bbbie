@@ -10,14 +10,14 @@ I am a Berlin-based conceptual and strategic thinker creating meaningful digital
 
 Apart from work I’m passionate about cheese 🧀, weight lifting 🏋, learning new things 💻, reading good books and articles 📚 and taking pictures of useless things to feed my instagram. 🤷
 
-🛠 Tools & Methods: 
-
+🛠 Tools: 
 HTML | CSS | JavaScript ES6 | Bootstrap |
 Ruby | Rails | SQL | Heroku | Git | GitHub | APIs |
 Scraping | PostgreSQL | OOP | Abstract | Zeplin |
 Figma | Principle | InVision | Webflow | Trello |
-ClickUp | Confluence | Slack | Adobe CS
+ClickUp | Confluence | Slack
 
+🦄 Methods:
 UX Design | UI Design | UX Research | Design
 Sprint | Personas | User Stories | User Journeys |
 Hypotheses | Information Architecture | Wireframes |
