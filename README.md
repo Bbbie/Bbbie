@@ -10,7 +10,8 @@ I am a Berlin-based conceptual and strategic thinker creating meaningful digital
 
 Apart from work I’m passionate about cheese 🧀, weight lifting 🏋, learning new things 💻, reading good books and articles 📚 and taking pictures of useless things to feed my instagram. 🤷
 
-Tools & Methods
+🛠 Tools & Methods: 
+
 HTML | CSS | JavaScript ES6 | Bootstrap |
 Ruby | Rails | SQL | Heroku | Git | GitHub | APIs |
 Scraping | PostgreSQL | OOP | Abstract | Zeplin |
