@@ -8,8 +8,6 @@ I am a Berlin-based conceptual and strategic thinker creating meaningful digital
 - 💬 You can ask me about UX Design
 - 📫 Shoot me a message on LinkedIn if you like: https://www.linkedin.com/in/deborahsillmann/
 
-Apart from work I’m passionate about cheese 🧀, weight lifting 🏋, learning new things 💻, reading good books and articles 📚 and taking pictures of useless things to feed my instagram. 🤷
-
 🛠 Tools: 
 HTML | CSS | JavaScript ES6 | Bootstrap |
 Ruby | Rails | SQL | Heroku | Git | GitHub | APIs |
@@ -23,3 +21,5 @@ Sprint | Personas | User Stories | User Journeys |
 Hypotheses | Information Architecture | Wireframes |
 Prototyping | User Testing | Project Planning |
 Interdisciplinary Teams | Workshop Facilitation
+
+Apart from work I’m passionate about cheese 🧀, weight lifting 🏋, learning new things 💻, reading good books and articles 📚 and taking pictures of useless things to feed my instagram. 🤷
