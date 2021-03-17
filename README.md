@@ -1,4 +1,4 @@
-<h1>### Hi there, I'm Deborah 👋</h1>
+<h1>Hi there, I'm Deborah 👋</h1>
 
 <p>I am a Berlin-based conceptual and strategic thinker creating meaningful digital products from first idea to implementation. I’m currently looking  for a job where I can have a positive impact and continue learning amongst a great team.</p>
 
