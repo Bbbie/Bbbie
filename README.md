@@ -3,7 +3,7 @@
 <p>I am a Berlin-based conceptual and strategic thinker creating meaningful digital products from first idea to implementation. I’m currently looking  for a job where I can have a positive impact and continue learning amongst a great team.</p>
 
 <ul>
-<li>💻  I've just completed an intense 9-week Web Development Bootcamp at Le Wagon Berlin</li>
+<li>💻  I've just completed an intense Web Development Program at Le Wagon Berlin</li>
 <li>🏠  I’m working on neighbors, a rails app to connect neighbors next door | https://www.neighbors-app.fun/</li>
 <li>🎓  I’m starting to learn React & Redux soon</li>
 <li>💬  You can ask me about UX Design</li>
