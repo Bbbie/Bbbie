@@ -4,8 +4,9 @@
 
 <ul>
 <li>💻  I've just completed an intense Web Development Program at Le Wagon Berlin</li>
+ <li>👩🏻‍💻  I'm a Junior Frontend Developer at Strichpunkt Design</li>
 <li>🏠  I’m working on neighbors, a rails app to connect neighbors next door | https://www.neighbors-app.fun/</li>
-<li>🎓  I’m starting to learn React & Redux soon</li>
+<li>🎓  I’m learning React & Redux</li>
 <li>💬  You can ask me about UX Design</li>
 <li> 📫  Shoot me a message on LinkedIn if you like | https://www.linkedin.com/in/deborahsillmann/</li>
 </ul>
