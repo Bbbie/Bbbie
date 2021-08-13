@@ -4,10 +4,8 @@
 
 <ul>
 <li>💻  I fell in love with coding during an intense Web Development Program at Le Wagon Berlin</li>
- <li>👩🏻‍💻  I'm a Junior Frontend Developer at Strichpunkt Design</li>
-<li>🏠  I’m working on neighbors, a rails app to connect neighbors next door | https://www.neighbors-app.fun/</li>
-<li>🎓  I’m currently learning React & Redux</li>
-<li>💬  You can ask me about UX Design</li>
+<li>👩🏻‍💻  I'm a Junior Frontend Developer at Strichpunkt Design</li>
+<li>🎓  I’m currently deepdiving into React </li>
 <li> 📫  Shoot me a message on LinkedIn if you like | https://www.linkedin.com/in/deborahsillmann/</li>
 </ul>
 
